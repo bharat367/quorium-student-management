@@ -2,6 +2,20 @@
 
 A modern, responsive web application built with React and Vite for managing student information at Quorium Consulting.
 
+## Application Screenshots
+
+### Dashboard
+![Dashboard View](./assets/screenshots/dashboard.png)
+*Main dashboard showing total student count and welcome message*
+
+### Add Student Form
+![Add Student Form](./assets/screenshots/add-student.png)
+*Form for adding new students with all necessary fields*
+
+### Students List
+![Students List](./assets/screenshots/students-list.png)
+*Searchable and sortable list of all students with status indicators*
+
 ## Features
 
 - **Dashboard Overview**: Get a quick glance at total student count and key metrics
