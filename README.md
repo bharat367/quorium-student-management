@@ -5,15 +5,15 @@ A modern, responsive web application built with React and Vite for managing stud
 ## Application Screenshots
 
 ### Dashboard
-![Dashboard View](./assets/screenshots/dashboard.png)
+![Dashboard View](./assets/screenshots/dashboard.PNG)
 *Main dashboard showing total student count and welcome message*
 
 ### Add Student Form
-![Add Student Form](./assets/screenshots/add-student.png)
+![Add Student Form](./assets/screenshots/add-student.PNG)
 *Form for adding new students with all necessary fields*
 
 ### Students List
-![Students List](./assets/screenshots/students-list.png)
+![Students List](./assets/screenshots/students-list.PNG)
 *Searchable and sortable list of all students with status indicators*
 
 ## Features
